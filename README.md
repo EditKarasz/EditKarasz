@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Edit which is a suitable name for an IT professional. Both my parents and the Romains who said "Nomen est omen" must know something. I am Hungarian which does not mean I am hungry all the time. But when I am I can travel to Turkey.
+
+I am tooling a lot at work and I like to automate things. I use a ton of Open Source products in my day to day life. So I have realised it is time to contribute back to the community in my free time. Free time... it is an interesting concept when you are a proud owner of:
+* a dog called Ronia who is responsible for the day to day excercise
+* 2 rabbits who are encouragint healthy habbits like to keep fresh salad in your fridge
+* 2 cats who I have because of the internet's existence depend on cats. The are also ephusiasts of enforcing the ISO-cat standards in my flat.
+* a red betta who is on the cat tv 24 / 7
+
+I am a big fan of [Free Code Camp](https://www.freecodecamp.org/news) and recently they posted a video about how to start to [contribute in Open Source](https://www.youtube.com/watch?v=yzeVMecydCE). This account and web page in an experiment to put what I heard into practice.
+
 <!--
 **EditKarasz/EditKarasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
